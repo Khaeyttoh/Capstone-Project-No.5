@@ -19,7 +19,7 @@ __Capstone-Project-No.5 by inputing__
 ```git init``` *enter* 
 
 your desktop should have the cloned repository with the name:
-__Capstone-Project-No.5 by inputing__
+__Capstone-Project-No.5__
 
 ## Features
 - You should be able to;
